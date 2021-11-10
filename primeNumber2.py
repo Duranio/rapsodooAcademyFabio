@@ -1,3 +1,5 @@
+# Alternative recursive solution; the function takes a list of contiguous values
+# and remove not prime numbers, leaving a list with prime numbers only
 import math
 
 numberList = [x for x in range(2, 101)]
